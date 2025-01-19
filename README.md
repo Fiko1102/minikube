@@ -1,5 +1,5 @@
 ### Commands
-![commands](/home/fikret/Pictures/Screenshots/commands.png)
+![commands](Images/commands.png)
 
 ### Pacman
-![pacman](/home/fikret/Pictures/Screenshots/pacman.png)
+![pacman](Images/pacman.png)
